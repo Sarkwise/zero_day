@@ -1,1 +1,2 @@
-Print system information
+#!/bin/bash
+uname
